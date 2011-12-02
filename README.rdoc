@@ -1,6 +1,6 @@
 = spreadsheet_mapper
 
-Description goes here.
+Gem that maps delimited files and spreadsheets to models and vice-versa
 
 == Contributing to spreadsheet_mapper
  
