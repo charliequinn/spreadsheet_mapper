@@ -4,6 +4,10 @@ coverage
 # rdoc generated
 rdoc
 
+.rvmrc
+
+.idea\*
+
 # yard generated
 doc
 .yardoc
